@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s079j3bbah",
-  "description": "https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0gr",
+  "name": "Twimba",
+  "description": "Basic Twitter Clone",
   "scripts": {
     "start": "vite",
     "dev": "vite",
